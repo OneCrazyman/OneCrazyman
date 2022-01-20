@@ -4,9 +4,9 @@
 const introduce = {
   pronouns: "man",
   code: [C, JAVA, python],
-  hobbies: [boarding, reading, game, sports],
+  hobbies: [reading, game, sports],
   learning: [*],
   
-  challenge: "fhEhekdcjaehltj xhlwlrgkrl"
+  challenge: "An annual salary of 100 million won."
 }
 ```
