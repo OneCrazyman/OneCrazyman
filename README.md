@@ -3,7 +3,7 @@
 ```javascript
 const introduce = {
   pronouns: "man",
-  code: [C, PYTHON, dJango],
+  code: [C, PYTHON, DJango],
   hobbies: [reading, game, sports],
   learning: [Java Spring],
   
