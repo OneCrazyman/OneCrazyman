@@ -3,9 +3,9 @@
 ```javascript
 const introduce = {
   pronouns: "man",
-  code: [C, JAVA, PYTHON],
+  code: [C, PYTHON, dJango],
   hobbies: [reading, game, sports],
-  learning: [*],
+  learning: [Java Spring],
   
   challenge: "An annual salary of 100 million won."
 }
