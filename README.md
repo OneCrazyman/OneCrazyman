@@ -1,6 +1,6 @@
 <h3 align="center">🎅Blog</h3>
 <div align="center">
-  <a href="https://onecrazyman.github.io/TIL"><img src="https://img.shields.io/badge/TIL blog-09B3AF?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp>>>&nbsp
+  <a href="https://onecrazyman.github.io/TIL"><img src="https://img.shields.io/badge/TIL blog-09B3AF?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
   <a href="https://1crazy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE5F50?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp
 </div>
 
