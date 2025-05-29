@@ -9,7 +9,7 @@
 <h3 align="center">📫Contact</h3>
 <div align="center">
   <a href="mailto:cjw7155@naver.com">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=flat square&logo=Naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
 </div>
 
